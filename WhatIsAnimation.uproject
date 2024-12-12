@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{30BBB339-4111-D6C5-E20D-519E8617C73C}",
+	"EngineAssociation": "{3860049B-42DE-9332-A2EF-15A6165A6D91}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -24,6 +24,10 @@
 		},
 		{
 			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInsights",
 			"Enabled": true
 		}
 	]
